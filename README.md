@@ -109,3 +109,5 @@ If you would like to use the the processed SFXL dataset based on **Block Cluster
 
 [IRPE implementation in PyTorch](https://github.com/microsoft/Cream/tree/main/iRPE)
 
+## Cite
+
