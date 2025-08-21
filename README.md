@@ -10,6 +10,8 @@ The official repository of "**DSFormer: A Dual-Scale Cross-Learning Transformer 
   <img src="images/HDBScanPlaces.png" alt="hdbsacnplaces" width="50%">
 </p>
 
+* [Arxiv Preprint](https://arxiv.org/abs/2507.18444) 
+
 ## Environment Setup
 
 * **Create conda enviromnet**
