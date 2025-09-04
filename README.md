@@ -124,5 +124,4 @@ If you use this work, please cite:
   number={},
   pages={1-8},
   doi={10.1109/LRA.2025.3604761}}
-'''
 
