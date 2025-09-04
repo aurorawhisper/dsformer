@@ -1,4 +1,4 @@
-# DSFormer: A Dual-Scale Cross-Learning Transformer for Visual Place Recognition
+# RAL2025: DSFormer: A Dual-Scale Cross-Learning Transformer for Visual Place Recognition
 
 ## Introduction
 
