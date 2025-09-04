@@ -111,7 +111,10 @@ If you would like to use the the processed SFXL dataset based on **Block Cluster
 [IRPE implementation in PyTorch](https://github.com/microsoft/Cream/tree/main/iRPE)
 
 ## Cite
-'''shell
+
+If you use this work, please cite:
+
+```bibtex
 @ARTICLE{11146630,
   author={Jiang, Haiyang and Piao, Songhao and Gao, Chao and Yu, Lei and Chen, Liguo},
   journal={IEEE Robotics and Automation Letters}, 
